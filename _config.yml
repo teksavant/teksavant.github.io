@@ -1,0 +1,37 @@
+title: Tek Savant
+description: This blog is all about the latest and greatest news of tech world.
+author: Amarjeet Singh Mudhar
+url: http://www.teksavant.com
+baseurl: 'http://amsmu.github.io/teksavant'
+email: teksavant.blog@gmail.com
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about.html
+ - title: Contact
+   url: /contact.html
+
+social:
+   
+   twitter: amarjeetsingh53
+   facebook: amsmu
+   email: teksavant.blog@gmail.com
+   googleplus: amarjeetsingh96
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Amarjeet Singh Mudhar
+      layout: "post"
+      comments: true
