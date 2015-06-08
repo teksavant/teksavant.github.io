@@ -3,6 +3,7 @@ layout: post
 title:  "Top 5 Expectations for WWDC 2015"
 date:   2015-06-08 14:00:40
 author: Amarjeet Singh Mudhar
+image: wwdc_2015.jpg
 ---
 <img src="/assets/blog-img/wwdc_2015.jpg">
 <p class="intro"><span class="dropcap">S</span>o the day has finally arrived, when Apple is going to announce a whole new major OS upgrades for all of its devices. Yes, today is Apple's Annual Worldwide Developer's Conference.</p>

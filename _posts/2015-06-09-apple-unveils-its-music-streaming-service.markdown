@@ -1,7 +1,7 @@
 ---
 title:  "Apple unveils its Music streaming service"
 date:   2015-06-09 00:55:23
-
+image: WWDC2015—Music—18-1280x720.jpg
 ---
 <img src="/assets/blog-img/WWDC2015—Music—18-1280x720.jpg">
 <p class="intro"><span class="dropcap">F</span>antastic, Apple just unveiled its own Music Streaming service in 101 countries. Its called Apple Music.</p>
