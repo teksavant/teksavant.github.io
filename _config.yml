@@ -2,7 +2,7 @@ title: Tek Savant
 description: This blog is all about the latest and greatest news of tech world.
 author: Amarjeet Singh Mudhar
 url: http://www.teksavant.com
-baseurl: 'http://amsmu.github.io/teksavant'
+# baseurl: 'http://amsmu.github.io/teksavant'
 email: teksavant.blog@gmail.com
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
