@@ -9,7 +9,7 @@ title: Contact Amarjeet
     <p class="intro">If you like my work and would like to work with me or have any questions, then don't hesitate to contact me.</p>
     <p>Please only use phone contact for urgent inquiries. Otherwise, Twitter and email are best ways to reach me.</p>
     <p><ul style="list-style-type: none;">
-          <li>call: <a href="tel:+91-99713762229">+91-9971376229</a></li>
+          <li>call: <a href="tel:+91-9971376229">+91-9971376229</a></li>
           <li>twitter: <a href="http://twitter.com/intent/tweet?screen_name=amarjeetsingh53">@amarjeetsingh53</a></li>
     </ul></p>
   </div>
