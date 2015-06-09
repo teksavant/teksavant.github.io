@@ -1,6 +1,6 @@
 ---
-title: Swift 2.0 : Apple takes open-source route
-date: 2015-06-09 14:05:06
+title: Apple takes open-source route with Swift 2
+date: 2015-06-09 16:05:06
 image: vlcsnap-2015-06-08-19h15m28s135.png 
 ---
 
