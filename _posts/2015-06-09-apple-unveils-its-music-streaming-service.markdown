@@ -3,7 +3,7 @@ title:  "Apple unveils its Music streaming service"
 date:   2015-06-09 00:55:23
 image: WWDC2015—Music—18-1280x720.jpg
 ---
-<img src="/assets/blog-img/WWDC2015—Music—18-1280x720.jpg">
+<!-- <img src="/assets/blog-img/WWDC2015—Music—18-1280x720.jpg"> -->
 <p class="intro"><span class="dropcap">F</span>antastic, Apple just unveiled its own Music Streaming service in 101 countries. Its called Apple Music.</p>
 
 <p>Apple Music is not an ordinary music streaming service but, its whole ecosystem. You can listen to any artist you want to listen, you can follow any artist you would love to follow and even any budding talent can use it as a platform for showcasing their talent.That's not all Apple also declares Beats one as an integrated part of Apple Music. Beats one is online radio which will feature world's top notch DJ's. Yeah, your workout time is gonna be fun fron now onwards.</p>
