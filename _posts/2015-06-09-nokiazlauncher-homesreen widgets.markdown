@@ -19,4 +19,4 @@ image: nokiazlauncherwidgetupdate.jpg
 
 <img src="/assets/blog-img/unnamed.png">
 
-<p>It is foreseeable that app is approaching towards its final release. So, if you've not tried  yet then must try <a href="https://play.google.com/store/apps/details?id=com.nokia.z">Z launcher.</a></p>
+<p>It is foreseeable that app is approaching its final release. So, if you've not tried  yet then must try <a href="https://play.google.com/store/apps/details?id=com.nokia.z">Z launcher.</a></p>
