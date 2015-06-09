@@ -1,0 +1,18 @@
+---
+title: Nokia Z launcher for Android recieves widget support
+date: 2015-06-09 14:52:52
+image: nokiazlauncherwidgetupdate.jpg
+
+---
+
+<p class="intro"><span class="dropcap">Z</span> Launcher for Android recieves a new update which brings home screen widget support. New update also brings alphabetical row of apps.</p>
+
+<p>Home screen widgets are built into the roots of android ecosystem. You can't expect to have home screen of android devices to be devoid of widgets. But that feature was lacking in Nokia Z launcher since its release.</p>
+
+<p>Z launcher is a launcher replacement app for android devices developed by Nokia. It is currently still in beta. This launcher was designed on the principles intelligent data manipulation. It allows you to swipe on homescreen to write a letter or more for it to recognize name of app you want to open. And it keeps track your all app access and provides you with the list of all the apps you need at the right time.</p>
+
+
+
+<p>The new release takes the version number to 1.2.0. The first thing you will notice in new update is ability to swipe left to show all the widgets you checked to be displayed. So now you don't have to revert to other launcher because you felt scarcity of widgets in Z Launcher. Other thing to notice is A-Z list of all the apps which can be accessed by a simple gesture.</p>
+
+<p>It is foreseeable that app is approaching towards its final release. So, if you've not tried  yet then must try <a href="https://play.google.com/store/apps/details?id=com.nokia.z">Z launcher.</a></p>
