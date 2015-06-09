@@ -7,6 +7,8 @@ image: nokiazlauncherwidgetupdate.jpg
 
 <p class="intro"><span class="dropcap">Z</span> Launcher for Android recieves a new update which brings home screen widget support. New update also brings alphabetical row of apps.</p>
 
+<img src="/assets/blog-img/unnamed.png">
+
 <p>Home screen widgets are built into the roots of android ecosystem. You can't expect to have home screen of android devices to be devoid of widgets. But that feature was lacking in Nokia Z launcher since its release.</p>
 
 <p>Z launcher is a launcher replacement app for android devices developed by Nokia. It is currently still in beta. This launcher was designed on the principles intelligent data manipulation. It allows you to swipe on homescreen to write a letter or more for it to recognize name of app you want to open. And it keeps track your all app access and provides you with the list of all the apps you need at the right time.</p>
