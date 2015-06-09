@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iOS 9 Developer Features that didn't come up on the stage"
-date:   2015-06-08 06:59:45
+date:   2015-06-09 06:59:45
 author: Amarjeet Singh Mudhar
 image: 20150608192314-wwdc-apple-shows-off-ios-9.jpg
 ---
