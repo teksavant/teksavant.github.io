@@ -19,6 +19,11 @@ layout: default
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
+        {% if post.image %}
+    <div class="featuredImage">
+        <img src="{{ '/assets/blog-img/' | prepend: site.baseurl | append: page.image }}" alt="" />
+      </div>
+  {% endif %}
         <span class="date">{{ post.date | date: '%B %d, %Y at %H:%M IST'' }}</span>
         <span class="date">{% if post.author %}{{ '| by ' }}{% endif %}</span>
         <span class="date" style="font-weight: bold;">{% if post.author %}{{ post.author }}{% endif %}</span>
