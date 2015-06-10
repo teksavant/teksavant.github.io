@@ -21,7 +21,7 @@ layout: default
       <li>
         {% if post.image %}
     <div class="featuredImage">
-        <img src="{{ '/assets/blog-img/' | prepend: site.baseurl | append: page.image }}" alt="" />
+        <img src="{{ '/assets/blog-img/' | prepend: site.baseurl | append: post.image }}" alt="" />
       </div>
   {% endif %}
         <span class="date">{{ post.date | date: '%B %d, %Y at %H:%M IST'' }}</span>
