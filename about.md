@@ -5,7 +5,7 @@ title: About Tek Savant
 
 <div class="post">
 	<h1 class="pageTitle">About Me</h1>
-	<img style="border-radius: 100%; width:200px; margin: 0px 15%; " src="/assets/img/me.jpg" alt=""> 
+	<div style="width: 50%; margin: 10px auto;"><img style="border-radius: 100%; width:200px; margin: 0px 15%; " src="/assets/img/me.jpg" alt=""></div> 
 	<p class="intro">Hi, I'm Amarjeet Singh Mudhar! I'm a Computer Science student at JIIT. </p>
 
 	<p>I enjoy writing about things I learn, speaking about stuff I’ve experienced, and collecting experiences in general. I also enjoy using side projects to learn new things, to stay fresh, and to collect said experiences.</p>
@@ -20,7 +20,7 @@ title: About Tek Savant
 	
 	
   	<h1 class="pageTitle">About the website</h1>
-	<img style="border-radius: 3%; width:200px; margin: 0px 15%;" src="{{ '/assets/img/favicon.png' | prepend: site.baseurl }}" alt=""> 
+	<div style="width: 50%; margin: 10px auto;"><img style="border-radius: 3%; width:200px; margin: 0px 15%;" src="{{ '/assets/img/favicon.png' | prepend: site.baseurl }}" alt=""></div> 
 	<p class="intro">I use this website for several purposes including: </p>
 	
 	
