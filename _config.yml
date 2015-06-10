@@ -6,6 +6,7 @@ url: http://teksavant.com
 email: teksavant.blog@gmail.com
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
+author: Amarjeet Singh Mudhar
 
 markdown: redcarpet
 highlighter: pygments
