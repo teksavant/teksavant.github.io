@@ -28,7 +28,7 @@ layout: default
         <span class="date">{% if post.author %}{{ '| by ' }}{% endif %}</span>
         <span class="date" style="font-weight: bold;">{% if post.author %}{{ post.author }}{% endif %}</span>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}<a href="{{ post.url }}">Read More</a>{% else %}{{ post.content | strip_html | strip_newlines | truncate: 180 }}<a href="{{ post.url }}">Read More</a>{% endif %}</p>
+        <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}<a href="{{ post.url }}"> Read More</a>{% else %}{{ post.content | strip_html | strip_newlines | truncate: 180 }}<a href="{{ post.url }}"> Read More</a>{% endif %}</p>
       </li>
     {% endfor %}
   </ul>
