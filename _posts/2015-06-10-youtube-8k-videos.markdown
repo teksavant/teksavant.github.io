@@ -2,7 +2,7 @@
 title: Youtube gets 8K playback label. Can you watch it?
 date: 2015-06-10 12:54:02
 image: Screen-Shot-2015-06-10.jpg
-description: A video was uploaded on Youtube last week which is impossibile for you to watch.
+description: A video was uploaded on Youtube last week which is impossibile for you to watch in it's highest resolution available.
 ---
 
 <p class="intro"><span class="dropcap"><a href="http://www.youtube.com">Y</a></span><a href="http://www.youtube.com">outube </a>recieves 8K video playback label. Along with that a video was posted last week on June 7th. Its called <a href="https://www.youtube.com/watch?v=sLprVF6d7Ug">Ghost Towns</a>, from user NeumannFilms.</p>
