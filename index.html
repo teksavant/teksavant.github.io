@@ -20,7 +20,7 @@ layout: default
     {% for post in paginator.posts %}
       <li>
         {% if post.image %}
-    <div class="featuredImage">
+    <div class="featuredImage" style="height: 50px;">
         <img src="{{ '/assets/blog-img/' | prepend: site.baseurl | append: post.image }}" alt="" />
       </div>
   {% endif %}
