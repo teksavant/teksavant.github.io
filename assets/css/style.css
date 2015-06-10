@@ -42,7 +42,8 @@ a{
 
 .index-post-image{
 	box-shadow: 0px 15px 20px -5px rgba(0,0,0,0.8);
-	
+	border-bottom: 5px;
+	border-color: #4a90e2;
 	margin-bottom: 10px; 
 }
 
