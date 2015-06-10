@@ -8,7 +8,7 @@ image: Screen-Shot-2015-06-10.png
 
 <p>Ghost Town features short looks at an abandoned mining settlement. It was shot using a RED Epic Dragon 6K camera which was then upscaled to reach 8K quality, told by NeumannFilms.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sLprVF6d7Ug" frameborder="0" allowfullscreen align="center"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sLprVF6d7Ug" frameborder="0" allowfullscreen align="right"> </iframe>
 
 <p>As per the Google's statement, the support for such a high quality was built into Youtube ever since 2010, but only earlier this year label for 8K was added to Youtube. The caveat of having such a quality on Youtube is that at the moment most of us don't have as powerful computers as required to run that content. If you happen to have such a resourse intensive computer then do checkout <a href="https://www.youtube.com/watch?v=sLprVF6d7Ug">this high quality video</a>. Rest of us will have to satisfy ourselves with 4K or other lower resolutions.</p>
 
