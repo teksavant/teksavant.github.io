@@ -1,7 +1,8 @@
 ---
-title:  "El Capitan will boost up all macs running yosemite"
+title:  "El Capitan will boost up all Macs running yosemite"
 date:   2015-06-09 08:47:02
 image:  OS-X-El-Capitan.jpg
+description: If you are running Yosemite then Apple will let you upgrade to El Capitan for free. But how will new OS change your Mac?
 ---
 
 <p class="intro"><span class="dropcap">E</span>l Capitan. Yes, you heard correct. That's the name for new OS X 10.11 that Apple released at Keynote, WWDC 2015. Besides new name what else has changed in the new desktop OS from Apple? Let's talk about it.</p>

@@ -2,7 +2,7 @@
 title: Nokia Z launcher for Android recieves widget support
 date: 2015-06-09 14:52:52
 image: nokiazlauncherwidgetupdate.jpg
-
+description: Are you an android user who loves to customize your homescreen? Ever heard of Z launcher? Checkout. There is something special in new version.
 ---
 
 <p class="intro"><span class="dropcap">Z</span> Launcher for Android recieves a new update which brings home screen widget support. New update also brings alphabetical row of apps.</p>

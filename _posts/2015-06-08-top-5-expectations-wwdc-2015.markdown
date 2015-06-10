@@ -4,6 +4,7 @@ title:  "Top 5 Expectations for WWDC 2015"
 date:   2015-06-08 14:00:40
 author: Amarjeet Singh Mudhar
 image: wwdc_2015.jpg
+description: Checkout what's probable to be announced at WWDC this year.
 ---
 <!-- 
 <img src="/assets/blog-img/wwdc_2015.jpg"> -->

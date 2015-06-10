@@ -2,6 +2,7 @@
 title: Apple takes open-source route with Swift 2
 date: 2015-06-09 16:05:06
 image: vlcsnap-2015-06-08-19h15m28s135.png 
+description: This isn't what Apple does usually, but this time it has. Swift is now open source.
 ---
 
 <p class="intro"><span class="dropcap">A</span>pple announced many new features and performance improvements for major upgrades of OS X and iOS at WWDC 2015. Apple also released Apple Music. But that's not all to it. The Cupertino Company also announced Swift 2.</p>
