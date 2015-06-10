@@ -8,7 +8,7 @@ image: 20150608192314-wwdc-apple-shows-off-ios-9.jpg
 <!-- 
 <img src="/assets/blog-img/20150608192314-wwdc-apple-shows-off-ios-9.jpg"> -->
 <p class="intro"><span class="dropcap">W</span>WDC 2015 Keynote is over. Just like every other year Apple showcased many new features for iOS 9 this year too. But if due to any reason you didn't catch up, for that here's the full list of features that company announced in iOS 9 for Developers..</p>
-'Hey'
+[Hey]
 <p>The full list is below </p>
 <ul>
   <li>OCR accessory setup</li>
