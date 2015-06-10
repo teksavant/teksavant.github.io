@@ -1,7 +1,7 @@
 ---
 title: World's first Water PC 
 date: 2015-06-10 22:54:30
-image: f204c123024c0d805a210e9c0845ea8ebab43c2f.jpeg
+image: f204c123024c0d805a210e9c0845ea8ebab43c2f-1.jpeg
 description: Researchers develop a computer which can run on water droplets.
 ---
 
