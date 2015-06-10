@@ -27,14 +27,15 @@ layout: default
         <span class="date">{{ post.date | date: '%B %d, %Y at %H:%M IST'' }}</span>
         <span class="date">{% if post.author %}{{ '| by ' }}{% endif %}</span>
         <span class="date" style="font-weight: bold;">{% if post.author %}{{ post.author }}{% endif %}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}<a href="{{ post.url }}"> Read More</a>{% else %}{{ post.content | strip_html | strip_newlines | truncate: 180 }}<a href="{{ post.url }}"> Read More</a>{% endif %}</p>
         <span class="date">{% if post.tag1 %}{{ post.tag1 }}{ % endif %}</span>
         <span class="date">{% if post.tag2 %}{{ post.tag2 }}{ % endif %}</span>
         <span class="date">{% if post.tag3 %}{{ post.tag3 }}{ % endif %}</span>
         <span class="date">{% if post.tag4 %}{{ post.tag4 }}{ % endif %}</span>
         <span class="date">{% if post.tag5 %}{{ post.tag5 }}{ % endif %}</span>
         <span class="date">{% if post.tag6 %}{{ post.tag6 }}{ % endif %}</span>
+        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}<a href="{{ post.url }}"> Read More</a>{% else %}{{ post.content | strip_html | strip_newlines | truncate: 180 }}<a href="{{ post.url }}"> Read More</a>{% endif %}</p>
+        
       </li>
     {% endfor %}
   </ul>
