@@ -10,7 +10,7 @@ image: Screen-Shot-2015-06-10.jpg
 
 <p>Ghost Town features short looks at an abandoned mining settlement. It was shot using a RED Epic Dragon 6K camera which was then upscaled to reach 8K quality, told by NeumannFilms.</p>
 
-<div style="width: 50%;
+<div style="width: 70%;
 margin: 0 auto; ">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sLprVF6d7Ug" frameborder="0" allowfullscreen> </iframe>
 </div>
