@@ -19,7 +19,7 @@ layout: default
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
-        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+        <span class="date">{{ post.date | date: '%B %d, %Y at %H:%M IST'' }}</span>
         <span class="date">{% if post.author %}{{ '| by ' }}{% endif %}</span>
         <span class="date" style="font-weight: bold;">{% if post.author %}{{ post.author }}{% endif %}</span>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
