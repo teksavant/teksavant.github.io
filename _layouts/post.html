@@ -29,7 +29,23 @@ layout: default
       {% endif %} 
       </a>
     {% endif %} 
+
   </div>
+    {% include disqus.html disqus_identifier=page.disqus_identifier %}
+  <!--  Google Custom Search -->
+         <div style="margin: 10px"><script>
+  (function() {
+    var cx = '013798997097096790325:fahy4ipapbs';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
 </div>
 
-{% include disqus.html disqus_identifier=page.disqus_identifier %}
+
