@@ -11,7 +11,9 @@ description: Researchers develop a computer which can run on water droplets.
 
 
 <p>Prakash told, "In this work, we finally demonstrate a synchronous, universal droplet logic and control." This water PC, due to universal nature of droplets, can perform any task that moder electronic computer can, but at noticeable drop in performance rate. "Following these rules, we've demonstrated that we can make all the universal logic gates used in electronics, simply by changing the layout of the bars on the chip," Katsikis said. "The actual design space in our platform is incredibly rich. Give us any Boolean logic circuit in the world, and we can build it with these little magnetic droplets moving around." </p>
-
+<div style="width: 70%; margin: 0px auto;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5WodTppevo" frameborder="0" allowfullscreen></iframe>
+</div>
 <p><span style="font-weight: bold;">Prakash tells the purpose of this project:</span><span>"We already have digital computers to process information. Our goal is not to compete with electronic computers or to operate word processors on this. Our goal is to build a completely new class of computers that can precisely control and manipulate physical matter. Imagine if when you run a set of computations that not only information is processed but physical matter is algorithmically manipulated as well. We have just made this possible at the mesoscale." - See more at: http://www.digit.in/laptops/researchers-develop-worlds-first-water-based-computer-26302.html#sthash.hIsJkbNX.dpuf</span></p>
 
 <p>Source:<a href="http://news.stanford.edu/news/2015/june/computer-water-drops-060815.html"> Stanford</a></p>
