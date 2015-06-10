@@ -41,7 +41,7 @@ layout: default
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
     {% endif %}
-    <h1>Tag Cloud</h1>
+    <!-- <h1>Tag Cloud</h1>
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
  <span class="site-tag">
@@ -50,7 +50,7 @@ layout: default
             {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
     </a>
 </span>
-{% endfor %}
+{% endfor %} -->
     <!--  Google Custom Search -->
          <script>
   (function() {
