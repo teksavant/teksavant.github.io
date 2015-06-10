@@ -27,12 +27,12 @@ layout: default
         <span class="date">{{ post.date | date: '%B %d, %Y at %H:%M IST'' }}</span>
         <span class="date">{% if post.author %}{{ '| by ' }}{% endif %}</span>
         <span class="date" style="font-weight: bold;">{% if post.author %}{{ post.author }}{% endif %}</span>
-        <span class="date">{% if post.taga %}{{ "hello" }}{ % endif %}</span>
+        <!-- <span class="date">{% if post.taga %}{{ "hello" }}{ % endif %}</span>
         <span class="date">{% if post.tagb %}{{ post.tagb }}{ % endif %}</span>
         <span class="date">{% if post.tagc %}{{ post.tagc }}{ % endif %}</span>
         <span class="date">{% if post.tagd %}{{ post.tagd }}{ % endif %}</span>
         <span class="date">{% if post.tage %}{{ post.tage }}{ % endif %}</span>
-        <span class="date">{% if post.tagf %}{{ post.tagf }}{ % endif %}</span>
+        <span class="date">{% if post.tagf %}{{ post.tagf }}{ % endif %}</span> -->
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}<a href="{{ post.url }}"> Read More</a>{% else %}{{ post.content | strip_html | strip_newlines | truncate: 180 }}<a href="{{ post.url }}"> Read More</a>{% endif %}</p>
         
@@ -47,12 +47,7 @@ layout: default
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
     {% endif %}
-    <!-- Tag list generator -->
-    <ul>
-    {% for tag in site.tags %}    
-        <li><a href="/tags/{{ tag[0] }}">{{ tag[0] }}</a></li>
-    {% endfor %}
-</ul>    
+     
     <!--  Google Custom Search -->
          <script>
   (function() {
