@@ -5,9 +5,9 @@ image: Screen-Shot-2015-06-11-at-4-40-47-pm.png
 description: Now you can sideload apps in iOS just like android OS.
 ---
 
-<p class="intro"><span class="dropcap">A</span>fter so many generations of restricting developers to test their apps on physical iOS devices only after joining Apple Developer Program, Apple has finally changed its policies. Apple Developer still costs $99/year but it has given some freedom to app developers.</p>
+<p class="intro"><span class="dropcap">A</span>fter so many generations of restricting developers from testing their apps on physical iOS devices without joining Apple Developer Program, Apple has finally changed its policies. Apple Developer Program still costs $99/year but now it has provided some freedom to app developers.</p>
 
-<p>iOS app developers can now build their apps on Xcode 7 and then sideload apps to their iPhones, iPads or iPods. But this also opens up one more possibility for Apple ecosystem i.e., now any app as long as its open source can be downloaded for free and sideloaded on your own iOS running devices.</p>
+<p>iOS app developers can now build their apps on Xcode 7 and then sideload apps to their iPhones, iPads or iPods. But this also opens up one more possibility for Apple ecosystem i.e., now any iOS app as long as its open source can be downloaded for free and sideloaded on your own iOS running devices using Xcode 7.</p>
 
 <p style="font-weight: bold;">How to sideload those apps?</p>
 <p>Prerequisites</p>
@@ -26,6 +26,6 @@ description: Now you can sideload apps in iOS just like android OS.
 <img src="/assets/blog-img/GBA4iOS.xcodeproj%2B2015-06-08%2B18-06-55.png">
 
 <p>Step 4: Click the play button in the top left. If there’s no build errors the app should now launch on your phone!</p>
-
+<p style="font-weight: bold;">Wrap up:</p>
 <p>Although the process is not as simple in case of sideloading apps in android, but well that's good for developers as it can reduce some piracy issues.</p>
 
