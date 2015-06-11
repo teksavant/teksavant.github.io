@@ -1,0 +1,31 @@
+---
+title: How to sideload apps in iOS with Xcode 7 for free. No Jailbreak required.
+date: 2015-06-11 13:05:45
+image: Screen-Shot-2015-06-11-at-4-40-47-pm.png
+description: Now you can sideload apps in iOS just like android OS.
+---
+
+<p class="intro"><span class="dropcap">A</span>fter so many generations of restricting developers to test their apps on physical iOS devices only after joining Apple Developer Program, Apple has finally changed its policies. Apple Developer still costs $99/year but it has given some freedom to app developers.</p>
+
+<p>iOS app developers can now build their apps on Xcode 7 and then sideload apps to their iPhones, iPads or iPods. But this also opens up one more possibility for Apple ecosystem i.e., now any app as long as its open source can be downloaded for free and sideloaded on your own iOS running devices.</p>
+
+<p style="font-weight: bold;">How to sideload those apps?</p>
+<p>Prerequisites</p>
+<ol>
+ <li>Source code of app you want to sideload.</li>
+ <li>A Mac running Xcode 7 beta.</li>
+ <li>iOS running device</li>
+</ol>
+<p style="font-style: italic;">App used to demonstrate in this process is <a href="https://bitbucket.org/rileytestut/gba4ios">GBA4iOS (Game Boy Emulator for iOS)</a> by developer <a href="https://github.com/bouk">Bouke van der Bijl</a></p>
+<p>Step 1: Download the source code of the app you want to install and follow any setup instructions. (sudo gem install cocoapods; git clone https://bitbucket.org/rileytestut/gba4ios.git; cd gba4ios; pod install for GBA4iOS). Open the workspace or project in Xcode.</p>
+
+<p>Step 2: Plug in your iPhone and select it as the build destination.</p>
+ <img src="/assets/blog-img/gba4ios-xcodeproj2015-06-0818-04-58.png">
+
+<p>Step 3: We now need to generate a code signing signature for the app. Click on the project on the left, fill in a unique “Bundle Identifier” and click on “Fix Issue” (make sure your name is selected as “team”)</p>
+<img src="/assets/blog-img/GBA4iOS.xcodeproj%2B2015-06-08%2B18-06-55.png">
+
+<p>Step 4: Click the play button in the top left. If there’s no build errors the app should now launch on your phone!</p>
+
+<p>Although the process is not as simple in case of sideloading apps in android, but well that's good for developers as it can reduce some piracy issues.</p>
+
