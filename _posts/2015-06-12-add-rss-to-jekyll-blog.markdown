@@ -19,19 +19,19 @@ description: Just built your own Jekyll website, but don't know how to add RSS f
  </li>
  
  <li><p>Create a feed.xml file in root directory of your project. To see the proper layout of root directory go to <a href="https://github.com/teksavant/teksavant.github.io">my website's git repository.</a> Then add the following code in it.</p>
-   <img src="rssxmlcode.jpg" alt="">
+   <div style="width: 80%; margin: 10px auto;"><img src="/assets/blog-img/rssxmlcode.jpg" alt=""></div>
  </li>
 
  <li>
-  <p>To add a link to website for users to subscribe I add a photo to footer of website and then linked it to feed.xml.</p>
-  <code data-lang="html"><a href='http://teksavant.com/feed.xml' rel='alternate' type='application/atom+xml' ><img src="{{ site.baseurl }}/assets/img/rss.png" style="display: inline-block; border-radius: 100%; width: 30px; height: 30px;"></a></code>
-  <img src="/assets/blog-img/RSS-demo.png">
+  To add a link to website for users to subscribe I add a photo to footer of website and then linked it to feed.xml.
+  <div style="width: 80%; margin: 10px auto;"><img src="/assets/blog-img/Rss-footer.png" alt="">
+  	<img src="/assets/blog-img/RSS-demo.png"></div>
   <p>But if you want, then you place it anywhere else too.</p>
  </li>
 
   <li>
    <p>To allow browsers like safari which has inbuilt support for RSS you need to add similar code in head.html</p>
-   <code data-lang="html"><link href='http://teksavant.com/feed.xml' rel='alternate' type='application/atom+xml'></code>
+   <div style="width: 80%; margin: 10px auto;"><img src="/assets/blog-img/rss-head.png" alt=""></div>
   </li>
 </ol>
 
