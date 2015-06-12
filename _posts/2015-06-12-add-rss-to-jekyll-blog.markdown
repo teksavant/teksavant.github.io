@@ -13,9 +13,11 @@ description: Just built your own Jekyll website, but don't know how to add RSS f
 <ol>
  <li>
    Add these three variables in _config.yml file.
-   `title: Tek Savant
-    description: This blog is all about the latest news and tutorials about latest software or devices you care about.
-    url: http://teksavant.com`
+    <ul style="list-style-type:none;">
+    <li>title: Tek Savant</li>
+    <li>description: This blog is all about the latest news and tutorials about latest software or devices you care about.</li>
+    <li>url: http://teksavant.com</li>
+    </ul>
  </li>
  
  <li>Create a feed.xml file in root directory of your project. To see the proper layout of root directory go to <a href="https://github.com/teksavant/teksavant.github.io">my website's git repository.</a> Then add the following code in it.
