@@ -18,7 +18,7 @@ description: Just built your own Jekyll website, but don't know how to add RSS f
     url: http://teksavant.com`
  </li>
  
- <li><p>Create a feed.xml file in root directory of your project. To see the proper layout of root directory go to <a href="https://github.com/teksavant/teksavant.github.io">my website's git repository.</a> Then add the following code in it.</p>
+ <li>Create a feed.xml file in root directory of your project. To see the proper layout of root directory go to <a href="https://github.com/teksavant/teksavant.github.io">my website's git repository.</a> Then add the following code in it.
    <div style="width: 80%; margin: 10px auto;"><img src="/assets/blog-img/rssxmlcode.jpg" alt=""></div>
  </li>
 
@@ -30,7 +30,7 @@ description: Just built your own Jekyll website, but don't know how to add RSS f
  </li>
 
   <li>
-   <p>To allow browsers like safari which has inbuilt support for RSS you need to add similar code in head.html</p>
+   To allow browsers like safari which has inbuilt support for RSS you need to add similar code in head.html
    <div style="width: 80%; margin: 10px auto;"><img src="/assets/blog-img/rss-head.png" alt=""></div>
   </li>
 </ol>
