@@ -1,5 +1,5 @@
 ---
-title: Building a Jekyll Website. How to add RSS?
+title: Building a Jekyll Website. Don't know how to add RSS?
 date: 2015-06-12 21:48:52
 img: jekyll.png
 description: Just built your own Jekyll website, but don't know how to add RSS feed to it? Then
