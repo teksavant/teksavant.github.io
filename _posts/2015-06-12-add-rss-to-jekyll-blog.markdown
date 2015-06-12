@@ -1,7 +1,7 @@
 ---
 title: Building a Jekyll Website. How to add RSS?
 date: 2015-06-12 21:48:52
-img: logo-2x.png
+img: jekyll.png
 description: Just built your own Jekyll website, but don't know how to add RSS feed to it? Then
 ---
 
@@ -28,7 +28,7 @@ description: Just built your own Jekyll website, but don't know how to add RSS f
   To add a link to website for users to subscribe I add a photo to footer of website and then linked it to feed.xml.
   <div style="width: 80%; margin: 10px auto;"><img src="/assets/blog-img/Rss-footer.png" alt="">
   	<img src="/assets/blog-img/RSS-demo.png"></div>
-  <p>But if you want, then you place it anywhere else too.</p>
+  But if you want, then you can place it anywhere else too.
  </li>
 
   <li>
