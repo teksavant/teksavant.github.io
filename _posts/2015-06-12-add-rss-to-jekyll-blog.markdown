@@ -20,28 +20,29 @@ description: Just built your own Jekyll website, but don't know how to add RSS f
  
  <li>
    Create a feed.xml file in root directory of your project. To see the proper layout of root directory go to <a href="https://github.com/teksavant/teksavant.github.io">my website's git repository.</a> Then add the following code in it.
-   <code data-lang="html">"---
+   <code>
+    <span> ---
 layout: none
----"
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+---</span>
+ <span><?xml version="1.0" encoding="UTF-8"?></span>
+ <span><rss version="2.0" </span><span>xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ site.url }}/{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
-      </item>
+    <title></span><span>{{ site.name | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</span><span></description>
+    <link>{{ site.url }}</span><span></link>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" </span><span>type="application/rss+xml" />
+    {% for post in site.posts limit:10 %}</span>
+      <span><item>
+        <title>{{ post.title | xml_escape }}</span><span></title>
+        <description>{{ post.content | xml_escape }}</span><span></description>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</span><span></pubDate>
+        <link></span><span>{{ site.url }}/{{ post.url }}</link>
+        <guid isPermaLink="true"></span><span>{{ site.url }}/{{ post.url }}</guid>
+      </item></span><span>
     {% endfor %}
   </channel>
-</rss></code>
-
+</rss></span>
+   </code>
  </li>
 
  <li>
