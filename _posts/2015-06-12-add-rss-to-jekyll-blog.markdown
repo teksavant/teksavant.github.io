@@ -20,9 +20,9 @@ description: Just built your own Jekyll website, but don't know how to add RSS f
  
  <li>
    Create a feed.xml file in root directory of your project. To see the proper layout of root directory go to <a href="https://github.com/teksavant/teksavant.github.io">my website's git repository.</a> Then add the following code in it.
-   {% highlight bash %}---
+   <code data-lan="html">"---
 layout: none
----
+---"
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -40,8 +40,7 @@ layout: none
       </item>
     {% endfor %}
   </channel>
-</rss>{% endhighlight %}
-
+</rss></code>
 
  </li>
 
