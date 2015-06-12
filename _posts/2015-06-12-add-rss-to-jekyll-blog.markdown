@@ -20,41 +20,19 @@ description: Just built your own Jekyll website, but don't know how to add RSS f
  
  <li>
    Create a feed.xml file in root directory of your project. To see the proper layout of root directory go to <a href="https://github.com/teksavant/teksavant.github.io">my website's git repository.</a> Then add the following code in it.
-   <code>
-    <span> ---
-layout: none
----</span>
- <span><?xml version="1.0" encoding="UTF-8"?></span>
- <span><rss version="2.0" </span><span>xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title></span><span>{{ site.name | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</span><span></description>
-    <link>{{ site.url }}</span><span></link>
-    <atom:link href="{{ site.url }}/feed.xml" rel="self" </span><span>type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}</span>
-      <span><item>
-        <title>{{ post.title | xml_escape }}</span><span></title>
-        <description>{{ post.content | xml_escape }}</span><span></description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</span><span></pubDate>
-        <link></span><span>{{ site.url }}/{{ post.url }}</link>
-        <guid isPermaLink="true"></span><span>{{ site.url }}/{{ post.url }}</guid>
-      </item></span><span>
-    {% endfor %}
-  </channel>
-</rss></span>
-   </code>
+   <img src="rssxmlcode.png">
  </li>
 
  <li>
   To add a link to website for users to subscribe I add a photo to footer of website and then linked it to feed.xml.
-  `<a href='http://teksavant.com/feed.xml' rel='alternate' type='application/atom+xml' ><img src="{{ site.baseurl }}/assets/img/rss.png" style="display: inline-block; border-radius: 100%; width: 30px; height: 30px;"></a>`
+  <code data-lang="html"><a href='http://teksavant.com/feed.xml' rel='alternate' type='application/atom+xml' ><img src="{{ site.baseurl }}/assets/img/rss.png" style="display: inline-block; border-radius: 100%; width: 30px; height: 30px;"></a></code>
   <img src="/assets/blog-img/RSS-demo.png">
   But if you want, then you place it anywhere else too.
  </li>
 
   <li>
    To allow browsers like safari which has inbuilt support for RSS you need to add similar code in head.html
-   `<link href='http://teksavant.com/feed.xml' rel='alternate' type='application/atom+xml'>`
+   <code data-lang="html"><link href='http://teksavant.com/feed.xml' rel='alternate' type='application/atom+xml'></code>
   </li>
 </ol>
 
