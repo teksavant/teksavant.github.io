@@ -20,7 +20,7 @@ description: Just built your own Jekyll website, but don't know how to add RSS f
  
  <li>
    Create a feed.xml file in root directory of your project. To see the proper layout of root directory go to <a href="https://github.com/teksavant/teksavant.github.io">my website's git repository.</a> Then add the following code in it.
-   <code data-lan="html">"---
+   <code data-lang="html">"---
 layout: none
 ---"
 <?xml version="1.0" encoding="UTF-8"?>
