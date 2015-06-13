@@ -17,7 +17,7 @@ description: Now you can sideload apps in iOS just like android OS.
  <li>iOS running device</li>
 </ol>
 <!-- Google adsens -->
-<div style="margin: 20px auto 40px;"
+<div style="margin: 20px auto 40px;">
    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- response base ad -->
 <ins class="adsbygoogle"

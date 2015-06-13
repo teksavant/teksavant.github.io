@@ -13,7 +13,7 @@ description: Are you an android user who loves to customize your homescreen? Eve
 
 <p>Z launcher is a launcher replacement app for android devices developed by Nokia. It is currently still in beta. This launcher was designed on the principles intelligent data manipulation. It allows you  to write a letter or word on homescreen for it to recognize name of app you want to open. And it keeps track your all app access and provides you with the list of all the apps you need at the right time.</p>
 <!-- Google adsens -->
-<div style="margin: 20px auto 40px;"
+<div style="margin: 20px auto 40px;">
    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- response base ad -->
 <ins class="adsbygoogle"

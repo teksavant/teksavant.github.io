@@ -19,7 +19,7 @@ description: If you are running Yosemite then Apple will let you upgrade your Ma
 <li> Xserve (Early 2009) </li>
 </ul>
 <!-- Google adsens -->
-<div style="margin: 20px auto 40px;"
+<div style="margin: 20px auto 40px;">
    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- response base ad -->
 <ins class="adsbygoogle"

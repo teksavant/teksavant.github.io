@@ -19,7 +19,7 @@ So what should we expect to hear from Apple today?
   <li><span style="font-weight: bold;">OS X 10.11</span><img src="/assets/blog-img/osx10-11.png"><p>After major OS over-haul last year with OS X 10.10 Yosemite, this year is focusing on its roots and trying its best to enhance OS' performance, stability and security.</p><p>Just like iOS 9 font changes will make its way to OS X. Additionally, some design flaws of Yosemite will be rectified in 10.11. </p><p>Apple has been testing a feature called Control Center, reportedly. Control Center is inspired from control center for iOS which was introduced in iOS 7. It will move many of the menu bar icons, itunes media controls and other utilities in a pane which can be accesed by a swipe on trackpad from left.</p><p>'Rootless' doesn't restricts to iOS 9 only but it will be there in OS X 10.11 too. But it won't be that big limitation here as rumours suggest that desktop variant will give user power to toggle it off*Relax*.</p></li>
 
   <!-- Google adsens -->
-<div style="margin: 20px auto 40px;"
+<div style="margin: 20px auto 40px;">
    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- response base ad -->
 <ins class="adsbygoogle"
