@@ -17,11 +17,11 @@ description: Researchers develop a computer which can run on water droplets.
 <!-- Google adsens -->
 <div style="width: 85%; margin: 20px auto;">
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- landscape ad -->
+<!-- inlace of image -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
+     style="display:inline-block;width:300px;height:250px"
      data-ad-client="ca-pub-7301436099802085"
-     data-ad-slot="8539476256"></ins>
+     data-ad-slot="7737067450"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
