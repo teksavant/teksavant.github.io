@@ -19,17 +19,17 @@ description: If you are running Yosemite then Apple will let you upgrade your Ma
 <li> Xserve (Early 2009) </li>
 </ul>
 <!-- Google adsens -->
-<div style="width: 85%; margin: 20px auto;">
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- landscape ad -->
+<div style="margin: 20px auto 40px;"
+   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- response base ad -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
+     style="display:block"
      data-ad-client="ca-pub-7301436099802085"
-     data-ad-slot="8539476256"></ins>
+     data-ad-slot="9213800657"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-   </div>
+</script></div>
 <p>According to Apple apps launches 1.4 times faster, app switching is 2 times faster, first mails will open 2 times faster and and it's upto 4 times faster while opening PDF in preview than Yosemite.</p>
 
 <img src="/assets/blog-img/elcapitanperfomanceenhancements.jpg">

@@ -13,17 +13,17 @@ description: Are you an android user who loves to customize your homescreen? Eve
 
 <p>Z launcher is a launcher replacement app for android devices developed by Nokia. It is currently still in beta. This launcher was designed on the principles intelligent data manipulation. It allows you  to write a letter or word on homescreen for it to recognize name of app you want to open. And it keeps track your all app access and provides you with the list of all the apps you need at the right time.</p>
 <!-- Google adsens -->
-<div style="width: 85%; margin: 20px auto;">
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- landscape ad -->
+<div style="margin: 20px auto 40px;"
+   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- response base ad -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
+     style="display:block"
      data-ad-client="ca-pub-7301436099802085"
-     data-ad-slot="8539476256"></ins>
+     data-ad-slot="9213800657"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-   </div>
+</script></div>
 
 
 <p>The new release takes the version number to 1.2.0. The first thing you will notice in new update is ability to swipe from left edge toward right to show all the widgets you checked to be displayed. So now you don't have to revert to other launcher because you felt scarcity of widgets in Z Launcher. Other thing to notice is A-Z list of all the apps which can be accessed by a simple gesture of swiping left from the right edge.</p>
