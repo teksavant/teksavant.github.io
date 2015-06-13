@@ -18,6 +18,19 @@ So what should we expect to hear from Apple today?
 
   <li><span style="font-weight: bold;">OS X 10.11</span><img src="/assets/blog-img/osx10-11.png"><p>After major OS over-haul last year with OS X 10.10 Yosemite, this year is focusing on its roots and trying its best to enhance OS' performance, stability and security.</p><p>Just like iOS 9 font changes will make its way to OS X. Additionally, some design flaws of Yosemite will be rectified in 10.11. </p><p>Apple has been testing a feature called Control Center, reportedly. Control Center is inspired from control center for iOS which was introduced in iOS 7. It will move many of the menu bar icons, itunes media controls and other utilities in a pane which can be accesed by a swipe on trackpad from left.</p><p>'Rootless' doesn't restricts to iOS 9 only but it will be there in OS X 10.11 too. But it won't be that big limitation here as rumours suggest that desktop variant will give user power to toggle it off*Relax*.</p></li>
 
+  <!-- Google adsens -->
+<div style="width: 85%; margin: 20px auto;">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- landscape ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7301436099802085"
+     data-ad-slot="8539476256"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+   </div>
+
   <li><span style="font-weight: bold;">Apple Watch</span><img src="/assets/blog-img/applewatchstainlesssteelblack.jpg"><p>No, don't expect a new model of Apple Watch. But we are going to hear about neat improvements that will improve your user-experience with the watch.</p><p>Firstly, Native SDKs for Developers. These SDKs will allow developers to make apps which will directly install on your Apple watch. So, yeah get ready for smoother,richer and more stable experience on your watch starting this fall.</p><p>Apple officials will also be talking about their plans for 2016 release of Watch hardware which includes how your Apple watch will do more on wifi without requiring an iPhone.</p></li>
 
   <li><span style="font-weight: bold;">Apple Music</span><img src="/assets/blog-img/cuebeats.png"><p>Besides all new major OS upgrades Apple will be launching a new Beats-Music based music streaming service. To go hand-in-hand with Cupertino based compan will also release updates of iTunes 12.2 for OS X as well as Windows.</p><p>Company ties the service with social networks. The upcoming service will be coming as key component of iOS 9.</p><p>Apple music takes UI inspiration from some of its compititions including Apple's own iTunes. It will be a cross-platform, so expect it in Google Play Store very soon for android users.</p></li>

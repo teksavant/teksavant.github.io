@@ -10,7 +10,18 @@ description: This isn't what Apple usually does, but this time it has. Swift is 
 <p>Swift is Apple's own proprietary programming language for OS X and iOS development. They released it last year at WWDC 2014. Since then, the language has evolved a lot. Its got lot of love from developers as it is easy to code with as well as its faster in compile time than many other languages like python.</p>
 
 <p>Apple decided to enhance it to such an extent that in just one year it got its verison bumped up to 2. So what's new? Maybe you as a consumer wouldn't want to read all that <a href="https://developer.apple.com/swift/blog/?id=29">detailed technical information</a>, so here's the big news. Apple will make Swift 2.0 open-source by the end of this year. Not only that, it will also be available on linux operating system.</p>
-
+<!-- Google adsens -->
+<div style="width: 85%; margin: 20px auto;">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- landscape ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7301436099802085"
+     data-ad-slot="8539476256"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+   </div>
 <p style="font-weight: bold;">Asking how will that affect your experience?</p>
 
 <ol>

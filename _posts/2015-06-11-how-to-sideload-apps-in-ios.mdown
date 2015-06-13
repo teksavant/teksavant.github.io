@@ -16,6 +16,18 @@ description: Now you can sideload apps in iOS just like android OS.
  <li>A Mac running Xcode 7 beta.</li>
  <li>iOS running device</li>
 </ol>
+<!-- Google adsens -->
+<div style="width: 85%; margin: 20px auto;">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- landscape ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7301436099802085"
+     data-ad-slot="8539476256"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+   </div>
 <p style="font-style: italic;">App used to demonstrate in this process is <a href="https://bitbucket.org/rileytestut/gba4ios">GBA4iOS (Game Boy Emulator for iOS)</a> by developer <a href="https://github.com/bouk">Bouke van der Bijl</a></p>
 <p>Step 1: Download the source code of the app you want to install and follow any setup instructions. (sudo gem install cocoapods; git clone https://bitbucket.org/rileytestut/gba4ios.git; cd gba4ios; pod install for GBA4iOS). Open the workspace or project in Xcode.</p>
 

@@ -9,6 +9,19 @@ description: Just built your own Jekyll website, but don't know how to add RSS f
 
 <p>If you are still reading this article then you must have already created your first Jekyll website. But are you facing problems while adding RSS feed to your website or don't know how to add it at all then do read further to know how I implemented RSS in <a href="http://teksavant.com">my own website</a> in just 4 simple steps.</p>
 
+<!-- Google adsens -->
+<div style="width: 85%; margin: 20px auto;">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- landscape ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7301436099802085"
+     data-ad-slot="8539476256"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+   </div>
+
 <p><b>Procedure:</b></p>
 <ol>
  <li>

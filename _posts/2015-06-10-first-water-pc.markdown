@@ -14,6 +14,18 @@ description: Researchers develop a computer which can run on water droplets.
 <div style="width: 70%; margin: 0px auto;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m5WodTppevo" frameborder="0" allowfullscreen></iframe>
 </div>
+<!-- Google adsens -->
+<div style="width: 85%; margin: 20px auto;">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- landscape ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7301436099802085"
+     data-ad-slot="8539476256"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+   </div>
 <p><span style="font-weight: bold;">Prakash tells the purpose of this project:</span><span>"We already have digital computers to process information. Our goal is not to compete with electronic computers or to operate word processors on this. Our goal is to build a completely new class of computers that can precisely control and manipulate physical matter. Imagine if when you run a set of computations that not only information is processed but physical matter is algorithmically manipulated as well. We have just made this possible at the mesoscale." </span></p>
 
 <p>Source:<a href="http://news.stanford.edu/news/2015/june/computer-water-drops-060815.html"> Stanford</a></p>
