@@ -15,7 +15,7 @@ description: Researchers develop a computer which can run on water droplets.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m5WodTppevo" frameborder="0" allowfullscreen></iframe>
 </div>
 <!-- Google adsens -->
-<div style="width: 85%; margin: 20px auto;">
+<div style="width: 85%; margin: 20px auto; align: center;">
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- inlace of image -->
 <ins class="adsbygoogle"
