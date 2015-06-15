@@ -25,32 +25,32 @@ http://crbug.com/460102
 <li>
 <br>
 <br>
-Before: Renderers for background tabs had the same priority as for foreground tabs. <br>
-Now: Renderers for background tabs get a lower priority, reducing idle wakeups on various perf test, in some cases by significant amounts (e.g. 50% on one test). 
+<u>Before</u>: Renderers for background tabs had the same priority as for foreground tabs. <br>
+<u>Now</u>: Renderers for background tabs get a lower priority, reducing idle wakeups on various perf test, in some cases by significant amounts (e.g. 50% on one test). 
 <br>
 http://crbug.com/485371 
 </li>
 <li>
 <br>
 <br>
-Before: On a Google search results page, using Safari's user agent to get the same content that Safari would, Chrome incurs ~390 wakes over 30s and 0.3% CPU usage vs. Safari’s 120 wakes over 30s and 0.1% CPU usage. <br>
-Now: 66% reduction in both timer firings and CPU use. Chrome is now incurring ~120 wakes over 30s and 0.1% CPU use, on par with Safari. 
+<u>Before</u>: On a Google search results page, using Safari's user agent to get the same content that Safari would, Chrome incurs ~390 wakes over 30s and 0.3% CPU usage vs. Safari’s 120 wakes over 30s and 0.1% CPU usage. <br>
+<u>Now</u>: 66% reduction in both timer firings and CPU use. Chrome is now incurring ~120 wakes over 30s and 0.1% CPU use, on par with Safari. 
 <br>
 http://crbug.com/489936 
 </li>
 <li>
 <br><br>
-Before: On capitalone.com, Chromium incurs ~1010 wakeups over 30s vs. Safari's ~490 wakes. <br>
-Now: ~30% reduction in timer firings. Chrome is now incurring ~721 wakeups over 30s. 
+<u>Before</u>: On capitalone.com, Chromium incurs ~1010 wakeups over 30s vs. Safari's ~490 wakes. <br>
+<u>Now</u>: ~30% reduction in timer firings. Chrome is now incurring ~721 wakeups over 30s. 
 <br>
 http://crbug.com/493350 
 </li>
 <li>
 <br><br>
-Before: On amazon.com, Chromium incurs 768 wakups over 30s and consumes ~0.7% CPU vs. Safari's 312 wakes over 30s and ~0.1% CPU. <br>
-Now: ~59% reduction in timer firings and ~70% reduction in CPU use. Chrome is now incurring ~316 wakeups over 30s, and 0.2% CPU use, on par with Safari at 312 wakes, and 0.1% CPU use."<br>
+<u>Before</u>: On amazon.com, Chromium incurs 768 wakups over 30s and consumes ~0.7% CPU vs. Safari's 312 wakes over 30s and ~0.1% CPU. <br>
+<u>Now</u>: ~59% reduction in timer firings and ~70% reduction in CPU use. Chrome is now incurring ~316 wakeups over 30s, and 0.2% CPU use, on par with Safari at 312 wakes, and 0.1% CPU use."<br>
 </li>
 </ul>
-<i></p>
+</i></p>
 
 <p>Hopefully, the updates are released soon, along with other improvements to reduce memory usage.</p>
