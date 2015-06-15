@@ -20,7 +20,7 @@ The other technical changes to Chrome for OS X are outlined as follows:
 <br>
 The team has been working on addressing this; here are some cases that have recently been improved on trunk: 
 <br>
-http://crbug.com/460102 
+<a href="http://crbug.com/460102">http://crbug.com/460102 </a>
 </li>
 <li>
 <br>
@@ -28,7 +28,7 @@ http://crbug.com/460102
 <u>Before</u>: Renderers for background tabs had the same priority as for foreground tabs. <br>
 <u>Now</u>: Renderers for background tabs get a lower priority, reducing idle wakeups on various perf test, in some cases by significant amounts (e.g. 50% on one test). 
 <br>
-http://crbug.com/485371 
+<a href="http://crbug.com/485371">http://crbug.com/485371 </a>
 </li>
 <li>
 <br>
@@ -36,14 +36,14 @@ http://crbug.com/485371
 <u>Before</u>: On a Google search results page, using Safari's user agent to get the same content that Safari would, Chrome incurs ~390 wakes over 30s and 0.3% CPU usage vs. Safari’s 120 wakes over 30s and 0.1% CPU usage. <br>
 <u>Now</u>: 66% reduction in both timer firings and CPU use. Chrome is now incurring ~120 wakes over 30s and 0.1% CPU use, on par with Safari. 
 <br>
-http://crbug.com/489936 
+<a href="http://crbug.com/489936">http://crbug.com/489936 </a>
 </li>
 <li>
 <br><br>
 <u>Before</u>: On capitalone.com, Chromium incurs ~1010 wakeups over 30s vs. Safari's ~490 wakes. <br>
 <u>Now</u>: ~30% reduction in timer firings. Chrome is now incurring ~721 wakeups over 30s. 
 <br>
-http://crbug.com/493350 
+<a href="http://crbug.com/493350">http://crbug.com/493350 </a>
 </li>
 <li>
 <br><br>
