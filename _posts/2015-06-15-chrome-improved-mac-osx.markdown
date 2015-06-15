@@ -17,7 +17,7 @@ The other technical changes to Chrome for OS X are outlined as follows:
 <i>
 <ul style="list-style: none;">
 <li>
-<br><br>
+<br>
 The team has been working on addressing this; here are some cases that have recently been improved on trunk: 
 <br>
 http://crbug.com/460102 
