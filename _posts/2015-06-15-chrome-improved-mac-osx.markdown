@@ -33,6 +33,18 @@ The team has been working on addressing this; here are some cases that have rece
 <li>
 <br>
 <br>
+<!-- Google adsens -->
+<div style="margin: 20px auto 40px;">
+   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- response base ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7301436099802085"
+     data-ad-slot="9213800657"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
 <u>Before</u>: On a Google search results page, using Safari's user agent to get the same content that Safari would, Chrome incurs ~390 wakes over 30s and 0.3% CPU usage vs. Safari’s 120 wakes over 30s and 0.1% CPU usage. <br>
 <u>Now</u>: 66% reduction in both timer firings and CPU use. Chrome is now incurring ~120 wakes over 30s and 0.1% CPU use, on par with Safari. 
 <br>
