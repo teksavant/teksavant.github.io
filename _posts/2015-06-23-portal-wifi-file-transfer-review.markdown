@@ -17,6 +17,18 @@ image: Portal-review-header.jpg
 
 <p>And that's it you are done.</p>
 <p>Here are some features Pushbullet likes to mention.</p>
+<!-- Google adsens -->
+<div style="margin: 20px auto 40px;">
+   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- response base ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7301436099802085"
+     data-ad-slot="9213800657"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
 <ul>
 	<li>Files are transferred over your WiFi connection. This means they don't count toward your mobile data limit and that files are transferred very quickly (even if they're over 1 GB in size).</li>
     <li>Have Android 5.0 (Lollipop) or newer and a removable SD card in your phone? Portal can save files to that removable SD card so you can get the most out of it (just tell us to in the Android app's Settings).</li>
