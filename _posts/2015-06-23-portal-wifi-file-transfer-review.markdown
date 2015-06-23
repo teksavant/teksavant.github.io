@@ -7,7 +7,7 @@ image: Portal-review-header.jpg
 <p class="intro"><span class="dropcap">P</span>ushbullet last week announced a new app called <a href="https://play.google.com/store/apps/details?id=com.pushbullet.android.portal&hl=en">Portal</a>. Portal is a file sharing app to send files from your computer to your android device. There are many such apps already available in Google Play Store but let's see what sets this new app apart from other contenders. </p>
 
 <p>Portal makes transferring pictures, videos, and other files from your computer onto your phone simple.</p>
-<p>To use it you just need to download the app from playstore onto your android device.<br>Then open up a web browser on your wifi enabled PC or Mac and goto <a href="portal.pushbullet.com">portal.pushbullet.com</a>. You will get to this QR code.</p>
+<p>To use it you just need to download the app from playstore onto your android device.<br>Then open up a web browser on your wifi enabled PC or Mac and goto portal.pushbullet.com. You will get to this QR code.</p>
 
 <div style="width: 60%; margin: 10px auto;"><img src="/assets/blog-img/portal-scan-qr.png" alt="QR code"></div>
 
