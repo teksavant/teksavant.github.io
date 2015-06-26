@@ -6,7 +6,7 @@ image: batman-ak-960.jpg
 
 <p class="intro"><span class="dropcap">B</span>atman Arkham Knight has been one of the most anticipated game of the year 2015. It launched last week for both next gen consoles and PC. Consoles ran it pretty fine at 1080p with 30 fps but PC had a horrendous port. It was so bad that even GTX 980 had problems maintaining constant 30 fps.</p>
 
-<p>But now Warner Bros. has acknowledged the issue and has pulled the PC version from sales. Just after launch company has released patches and told some tricks to fix performance issues but it didn't help much. Steam is showing "Mostly Negative" review status.</p>
+<p>But now Warner Bros. has acknowledged the issue and has pulled the PC version from sales. Just after launch company has released patches and told some tricks to fix performance issues but it didn't help much. And now you can ask for refund from your retailer or steam but if you want you can keep playing it. Steam is showing "Mostly Negative" review status.</p>
 
 <div style="width: 80%; margin: 0 auto;"><img src="/assets/blog-img/batman-ak-steam.jpg"><br>
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our team has posted an update for our PC players over at the official Arkham forums. <a href="http://t.co/a6EFqhSD3n">http://t.co/a6EFqhSD3n</a></p>&mdash; Batman Arkham (@BatmanArkham) <a href="https://twitter.com/BatmanArkham/status/613576136308580352">June 24, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
