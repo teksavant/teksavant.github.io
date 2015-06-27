@@ -21,4 +21,4 @@ image: Spotify-not-available.jpg
 	</ol>
 </p>
 
-<p>If you liked this How to do guide do leave a comment down below. </p>
+<p>If you liked this How to do guide, then do leave a comment down below. </p>
