@@ -1,7 +1,7 @@
 ---
 title: How to use Spotify outside US and UK
 date: 2015-06-27 22:34:34
-image: Spotify-not-available.png 
+image: Spotify-not-available.jpg 
 ---
 
 <p class="intro"><span class="dropcap"><a href="http://www.spotify.com">S</a></span><a href="http://www.spotify.com">potify</a> is one of the world's biggest online music streaming services but it is limited to very few countries. Music junkies in other countries just need to wait for Spotify to launch its services in their nation or maybe there is something that you can do to enjoy it right now.</p>
