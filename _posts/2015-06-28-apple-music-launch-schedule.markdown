@@ -1,7 +1,7 @@
 ---
 title: iOS 8.4 Launching at 8 AM Pacific Tuesday, Beats 1 Goes Live at 9 AM
 date: 2015-06-28 19:22:09
-image: beats-music-jpg.jpg
+image: beats1timessq.png
 ---
 
 <p class="intro"><span class="dropcap">F</span>ormer Beats Music CEO and current Apple Music senior director Ian Rogers made a brief blog post yesterday summarizing some of his background in music leading up to this week's debut of Apple Music while also revealing Apple's launch schedule for iOS 8.4 and the new Beats 1 radio station. </p>
