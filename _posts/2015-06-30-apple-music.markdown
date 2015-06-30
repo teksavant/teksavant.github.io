@@ -5,7 +5,7 @@ date: 2015-06-30 9:45:45
 
 ---
 
-<p>Apple today released iOS 8.4, the fourth major update to iOS 8. iOs 8.4 also include newly revampend and highly anticipated music streaming service called Apple Music.</p>
+<p class="intro"><span class="dropcap">A</span>pple today released iOS 8.4, the fourth major update to iOS 8. iOs 8.4 also include newly revampend and highly anticipated music streaming service called Apple Music.</p>
 
 <p>iOS 8.4 is available to download over-the-air. Along with it comes Apple Music. Apple Music was announced this year at WWDC. Its allows you to listen to on-demand music at $9.99 and $14.99 for family upto six members.</p>
 
