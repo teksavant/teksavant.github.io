@@ -1,7 +1,7 @@
 ---
 title: What Is Sass? Getting Started With Sass On A Mac?
 date: 2015-07-08 10:23:23
-img: css-sass-cover.jpg
+image: css-sass-cover.jpg
 
 ---
 
