@@ -1,0 +1,27 @@
+---
+title: What are VPNs and how to setup a free VPN?
+date: 2015-08-05 12:30:30
+image: vypr_device_family.png
+
+---
+
+<p class="intro"><span class="dropcap">V</span>PN, or virtual private network, is a network that is constructed by using public wires — usually the Internet — to connect to a private network, such as a company's internal network. There are a number of systems that enable you to create networks using the Internet as the medium for transporting data. These systems use encryption and other security mechanisms to ensure that only authorized users can access the network and that the data cannot be intercepted.</p>
+
+<h3>Consumer VPN</h3>
+<p>Consumers use a private VPN service, also known as a VPN tunnel, to protect their online activity and identity. By using an anonymous VPN service, a user's Internet traffic and data remain encrypted, which prevents eavesdroppers from sniffing Internet activity.  A VPN service is especially useful when accessing public Wi-Fi hotspots because the public wireless services might not be secure. In addition to public Wi-Fi security, a private VPN service also provides consumers with uncensored Internet access and can help prevent data theft and unblock websites.</p>
+<h3>How to setup a free VPN using Google Chrome</h3>
+<p>
+	<ol>
+        <li>Download Chrome extension called <a href="https://hola.org/">Hola!</a>
+        	<br>
+        	<br><img src="/assets/blog-img/HolaHomePage.png" style="max-width: 100%"></li>
+        <li>As soon as it gets installed it will show up in Google Chrome's Toolbar. Now signup in Hola!<br><br>
+              <img src="/assets/blog-img/holaToolBar.png" style="max-width: 80%">
+         </li>
+         <li>Now click on the Hola! icon and activate the VPN service.<br><br>
+              <img src="/assets/blog-img/holaActivate.png" style="max-width: 80%">
+         </li>
+	</ol>
+
+</p>
+<p>That's it! Now you are using a free VPN. So, you will be able to browse privately and access web services that aren't available in your country</p>
