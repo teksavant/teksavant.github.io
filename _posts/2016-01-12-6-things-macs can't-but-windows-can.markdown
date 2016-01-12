@@ -5,7 +5,7 @@ date:   2016-01-12 13:53:53
 image: Mac-vs-PC.jpg
 ---
 
-<p class="intro"><span class="dropcap">A</span>re you a <a href="http://windows.microsoft.com">Windows</a> user thinking about switching over to a Mac? The huge popularity of iPads and iPhones has tempted many long-time Windows devotees into confirming their place in the <a href="apple.com">Apple</a> ecosystem with a home computer that will play in harmony with their iOS phone or tablet. However, anyone thinking of making the switch has a few considerations to make beforehand — there are things about Windows that you’ll miss once they’re gone.</p>
+<p class="intro"><span class="dropcap">A</span>re you a <a href="http://windows.microsoft.com">Windows</a> user thinking about switching over to a Mac? The huge popularity of iPads and iPhones has tempted many long-time Windows devotees into confirming their place in the <a href="http://www.apple.com">Apple</a> ecosystem with a home computer that will play in harmony with their iOS phone or tablet. However, anyone thinking of making the switch has a few considerations to make beforehand — there are things about Windows that you’ll miss once they’re gone.</p>
 <p>Here are the 6 things that MACs can't do but Windows PCs can.</p>
 
 <h2>1. Gaming </h2><div style="width: 70%; margin: 0 auto;"><img src="/assets/blog-img/witcher.jpg" alt="pc gaming windows witcher 3 mac"></div><p style="width: 70%"> Windows devices can play a hell lot of games. Game developers are massively incentivized to develop their games for Windows given just how many PCs are on the market. It's in their interest to reach as many gamers as possible. After all, Macs by contrast represent only a small number of total personal computers on the market and while some developers do support their games there, but surely there's a lot less games available for the Mac overall.</p>
@@ -26,4 +26,4 @@ image: Mac-vs-PC.jpg
 
 
 
-<p>So, here is my list of 6 things that MACs can't do but Windows PC can. Comment below with your own examples in the interest of fairness. Stay tuned.</p>
+<p>So, here is my list of 6 things that MACs can't do but Windows PC can. Comment below with your own examples in the interest of fairness. Stay tuned for similar post in favour of MACs.</p>
