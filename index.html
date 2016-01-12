@@ -3,37 +3,27 @@ layout: default
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle"> Recent Posts <!-- <p><script>
-  (function() {
-    var cx = '012673514414033445159:ho5fkr5f_zg';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search></p> --></h1>
+  <h1 class="pageTitle"> Recent Posts </h1>
+
   <ul class="posts noList">
     {% for post in paginator.posts %}
-      <li>
-        <div class="index-post-image">{% if post.image %}
-    <div class="featuredImage">
-        <a href="{{ post.url }}"><img src="{{ '/assets/blog-img/' | prepend: site.baseurl | append: post.image }}" alt="" /></a> 
-      </div>
-      {% else %}
-      <div style="align: center;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- inlace of image -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:250px"
-     data-ad-client="ca-pub-7301436099802085"
-     data-ad-slot="7737067450"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-  {% endif %}</div>
+
+    <li>
+      <div class="index-post-image">{% if post.image %}
+        <div class="featuredImage">
+          <a href="{{ post.url }}"><img src="{{ '/assets/blog-img/' | prepend: site.baseurl | append: post.image }}" alt="" /></a> 
+        </div>
+        {% else %}
+        <div style="align: center;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+          <!-- inlace of image -->
+          <ins class="adsbygoogle"
+          style="display:inline-block;width:300px;height:250px"
+          data-ad-client="ca-pub-7301436099802085"
+          data-ad-slot="7737067450"></ins>
+          <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script></div>
+        {% endif %}</div>
         <span class="date">{{ post.date | date: '%B %d, %Y at %H:%M IST'' }}</span>
         <span class="date">{% if post.author %}{{ '| by ' }}{% endif %}</span>
         <span class="date" style="font-weight: bold;">{% if post.author %}{{ post.author }}{% endif %}</span>
@@ -41,64 +31,42 @@ layout: default
         <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}<a href="{{ post.url }}"> Read More</a>{% else %}{{ post.content | strip_html | strip_newlines | truncate: 180 }}<a href="{{ post.url }}"> Read More</a>{% endif %}</p>
         
       </li>
-    {% endfor %}
-  </ul>
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
+      {% endfor %}
+    </ul>
+    <!-- Pagination links -->
+    <div class="pagination">
+      {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a> 
-    {% endif %}
-    {% if paginator.next_page %}
+      {% endif %}
+      {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
-    {% endif %}
-    <!-- <h1>Tag Cloud</h1>
-{% assign tags = site.tags | sort %}
-{% for tag in tags %}
- <span class="site-tag">
-    <a href="/tag/{{ tag | first | slugify }}/"
-        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
-            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
-    </a>
-</span>
-{% endfor %} -->
-<!-- Google adsens -->
-<!--<div style="width: 100%; margin: 20px auto;">
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script-->
-<!-- landscape ad -->
-<!-- <ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-7301436099802085"
-     data-ad-slot="8539476256"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-   </div> -->
-   <div style="margin: 20px auto 40px;"
-   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- response base ad -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7301436099802085"
-     data-ad-slot="9213800657"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
+      {% endif %}
+      
+      <div style="margin: 20px auto 40px;"
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- response base ad -->
+      <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7301436099802085"
+      data-ad-slot="9213800657"
+      data-ad-format="auto"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script></div>
     <!--  Google Custom Search -->
-         <script>
-  (function() {
-    var cx = '013798997097096790325:fahy4ipapbs';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
-    <!-- <form method="get" action="http://www.google.com/search"> <div style="border:1px solid black;padding:4px;width:20em;"> <table border="0" cellpadding="0"> <tr><td> <input type="text" name="q" size="25" maxlength="255" value="" /> <input type="submit" value="Google Search" /></td></tr> <tr><td align="center" style="font-size:75%"> <input type="checkbox" name="sitesearch" value="teksavant.com" checked /> only search Tek Savant<br /> </td></tr></table> </div> </form> -->
+    <script>
+    (function() {
+      var cx = '013798997097096790325:fahy4ipapbs';
+      var gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+      '//cse.google.com/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+    })();
+    </script>
+    <gcse:search></gcse:search>
 
 
   </div>
