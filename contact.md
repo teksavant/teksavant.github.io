@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact Amarjeet
+date:   2016-07-04 11:25:50
 ---
 
 <div id="contact">
