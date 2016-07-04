@@ -19,7 +19,7 @@ navigation:
    url: /about.html
  - title: Contact
    url: /contact.html
-
+future: true
 
 social:
    
@@ -37,4 +37,4 @@ defaults:
       author: Amarjeet Singh Mudhar
       layout: "post"
       comments: true
-      future: true
+      
